@@ -66,9 +66,17 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
 ### 📈 My GitHub Activity
 
 <p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=radical&languages_count=8" />
+</p>
+
+
+<!-- <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=radical&languages_count=8" />
 </p>
+--> 
+
 
 <!--
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=https://github.com/SantiagoTorresH&show_icons=true&theme=radical)
