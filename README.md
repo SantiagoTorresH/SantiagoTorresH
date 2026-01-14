@@ -1,4 +1,6 @@
 # Hello! I'm Santiago Torres Herrera 👋
+![]([URL_DE_LA_IMAGEN](https://media.licdn.com/dms/image/v2/D4E16AQF5vY6izWdWlg/profile-displaybackgroundimage-shrink_350_1400/B4EZubLAwZIgAc-/0/1767834917664?e=1770249600&v=beta&t=sDrPh2kinhN90DAyW4UK2bV8qE7pY0ZwomWiIdRw9n4))
+
 
 ### 🚀 About me
 ## Frontend Developer & Data Analyst
@@ -11,6 +13,47 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
 - 💬 Ask me about: **Python, Frontend, Databases**
 
 ### 🛠️ Technologies and Tools
+### 🛠️ Tecnologías y Herramientas
+
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Frameworks</b></td>
+    <td align="center"><b>Lenguajes</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,django" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,py,cs,ts" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><b>Bases de Datos</b></td>
+    <td align="center"><b>Control de versiones</b></td>
+    <td align="center"><b>Editores</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,netlify" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+    </td>
+  </tr>
+</table>
+
+<!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -23,7 +66,7 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+-->
 
 ---
 
