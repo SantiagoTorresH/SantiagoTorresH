@@ -1,5 +1,9 @@
 # Hello! I'm Santiago Torres Herrera 👋
-![]([URL_DE_LA_IMAGEN](https://media.licdn.com/dms/image/v2/D4E16AQF5vY6izWdWlg/profile-displaybackgroundimage-shrink_350_1400/B4EZubLAwZIgAc-/0/1767834917664?e=1770249600&v=beta&t=sDrPh2kinhN90DAyW4UK2bV8qE7pY0ZwomWiIdRw9n4))
+![](https://media.licdn.com/dms/image/v2/D4E16AQF5vY6izWdWlg/profile-displaybackgroundimage-shrink_350_1400/B4EZubLAwZIgAc-/0/1767834917664?e=1770249600&v=beta&t=sDrPh2kinhN90DAyW4UK2bV8qE7pY0ZwomWiIdRw9n4)
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQF5vY6izWdWlg/profile-displaybackgroundimage-shrink_350_1400/B4EZubLAwZIgAc-/0/1767834917664?e=1770249600&v=beta&t=sDrPh2kinhN90DAyW4UK2bV8qE7pY0ZwomWiIdRw9n4" alt="Descripción" width="200" height="200">
+</p>
 
 
 ### 🚀 About me
@@ -13,7 +17,7 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
 - 💬 Ask me about: **Python, Frontend, Databases**
 
 ### 🛠️ Technologies and Tools
-### 🛠️ Tecnologías y Herramientas
+
 
 <table>
   <tr>
@@ -26,7 +30,7 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,bootstrap,django" />
+      <img src="https://skillicons.dev/icons?i=react,django" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=js,py,cs,ts" />
@@ -45,7 +49,7 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
       <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,netlify" />
+      <img src="https://skillicons.dev/icons?i=git,github" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
@@ -53,37 +57,21 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
   </tr>
 </table>
 
-<!--
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend & Development:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
--->
 
 ---
 
 ### 📈 My GitHub Activity
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=https://github.com/SantiagoTorresH&show_icons=true&theme=radical)
-<!--
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=tokyonight)
---> 
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=radical&languages_count=8" />
+</p>
 
 <!--
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=tokyonight" />
-</p>
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=https://github.com/SantiagoTorresH&show_icons=true&theme=radical)
 -->
+
 
 
 ---
