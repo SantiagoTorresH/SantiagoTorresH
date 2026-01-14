@@ -29,8 +29,8 @@ Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, 
 ---
 
 ### 📈 Mi Actividad de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=https://github.com/SantiagoTorresH&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SantiagoTorresH&layout=compact&theme=tokyonight)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=tokyonight)
 
 ---
 
