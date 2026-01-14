@@ -17,7 +17,7 @@ Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend & Desarrollo:**
+### Frontend & Desarrollo:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -29,15 +29,19 @@ Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, 
 ---
 
 ### 📈 Mi Actividad de GitHub
+
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=https://github.com/SantiagoTorresH&show_icons=true&theme=radical)
 <!--
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=tokyonight)
 --> 
 
+<!--
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SantiagoTorresH&show_icons=true&theme=radical" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoTorresH&layout=compact&theme=tokyonight" />
 </p>
+-->
 
 
 ---
