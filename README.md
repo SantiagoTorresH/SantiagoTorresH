@@ -1,23 +1,22 @@
-## Hi there 👋
+# Hello! I'm Santiago Torres Herrera 👋
 
-# ¡Hola! Soy Santiago Torres Herrera 👋
+### 🚀 About me
+## Frontend Developer & Data Analyst
+I am passionate about software development focused on creating efficient and scalable solutions. I love learning new technologies and tackling technical challenges.
+I specialize in creating modern, fast, and visually appealing interfaces, as well as transforming data into strategic decisions.
 
-### 🚀 Sobre mí
-## Desarrollador Frontend & Analista de Datos
-Soy un apasionado del desarrollo de software enfocado en crear soluciones eficientes y escalables. Me encanta aprender nuevas tecnologías y enfrentar retos técnicos.
-Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, además de transformar datos en decisiones estratégicas.
 
-- 🔭 Actualmente estoy trabajando en: ** Proyectos Personales y pequeñas landig pages **
-- 🌱 Perfeccionando mis habilidades en: **TypeScript, React, JavaScript, Python y Arquitectura de Software**
-- 💬 Pregúntame sobre: **Python, Frontend, Bases de Datos**
+- 🔭 I am currently working on: **Personal projects and small landing pages**
+- 🌱 Improving my skills in: **TypeScript, React, JavaScript, Python, and Software Architecture**
+- 💬 Ask me about: **Python, Frontend, Databases**
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend & Desarrollo:
+### Frontend & Development:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,7 +27,7 @@ Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, 
 
 ---
 
-### 📈 Mi Actividad de GitHub
+### 📈 My GitHub Activity
 
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=https://github.com/SantiagoTorresH&show_icons=true&theme=radical)
 <!--
@@ -46,7 +45,7 @@ Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, 
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 <!-- 
 <a href="https://www.linkedin.com/in/santiago-torres-herrera-00a7683a2/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -56,7 +55,7 @@ Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-torres-herrera-00a7683a2/)
 
 <br>
-<sub>*💡 Tip: Usa `Ctrl + Clic` para abrir en una pestaña nueva*</sub>
+<sub>*💡 Tip: Use `Ctrl + Click` to open in a new tab.*</sub>
 
 
 
