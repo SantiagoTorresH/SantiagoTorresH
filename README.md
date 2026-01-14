@@ -1,9 +1,11 @@
 # Hello! I'm Santiago Torres Herrera 👋
 ![](https://media.licdn.com/dms/image/v2/D4E16AQF5vY6izWdWlg/profile-displaybackgroundimage-shrink_350_1400/B4EZubLAwZIgAc-/0/1767834917664?e=1770249600&v=beta&t=sDrPh2kinhN90DAyW4UK2bV8qE7pY0ZwomWiIdRw9n4)
 
+<!--
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQF5vY6izWdWlg/profile-displaybackgroundimage-shrink_350_1400/B4EZubLAwZIgAc-/0/1767834917664?e=1770249600&v=beta&t=sDrPh2kinhN90DAyW4UK2bV8qE7pY0ZwomWiIdRw9n4" alt="Descripción" width="200" height="200">
 </p>
+--> 
 
 
 ### 🚀 About me
@@ -85,8 +87,7 @@ I specialize in creating modern, fast, and visually appealing interfaces, as wel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-torres-herrera-00a7683a2/)
 
-<br>
-<sub>*💡 Tip: Use `Ctrl + Click` to open in a new tab.*</sub>
+*💡 Tip: Use `Ctrl + Click` to open in a new tab.*
 
 
 
