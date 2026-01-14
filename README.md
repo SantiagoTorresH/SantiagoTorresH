@@ -47,13 +47,16 @@ Me especializo en crear interfaces modernas, rápidas y visualmente atractivas, 
 ---
 
 ### 📫 Contacto
+<!-- 
 <a href="https://www.linkedin.com/in/santiago-torres-herrera-00a7683a2/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-torres-herrera-00a7683a2/) 
 -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-torres-herrera-00a7683a2/)
+
+<br>
+<sub>*💡 Tip: Usa `Ctrl + Clic` para abrir en una pestaña nueva*</sub>
 
 
 
